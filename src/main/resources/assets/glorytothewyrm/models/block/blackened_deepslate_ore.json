@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "glorytothewyrm:block/blackened_deepslate_ore"
+  }
+}

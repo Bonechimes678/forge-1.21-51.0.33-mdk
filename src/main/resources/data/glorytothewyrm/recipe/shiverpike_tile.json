@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "glorytothewyrm:shiverpike_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "AA ",
+    "AA "
+  ],
+  "result": {
+    "count": 1,
+    "id": "glorytothewyrm:shiverpike_tile"
+  }
+}

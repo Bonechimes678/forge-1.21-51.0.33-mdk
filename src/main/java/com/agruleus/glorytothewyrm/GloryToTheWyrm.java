@@ -1,6 +1,7 @@
 package com.agruleus.glorytothewyrm;
 
 import com.agruleus.glorytothewyrm.block.ModBlocks;
+import com.agruleus.glorytothewyrm.item.ModCreativeModeTabs;
 import com.agruleus.glorytothewyrm.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -35,6 +36,8 @@ public class GloryToTheWyrm {
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -58,6 +61,9 @@ public class GloryToTheWyrm {
 
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.SHIVERPIKE_CLUMP);
+            event.accept(ModBlocks.SHIVERPIKE_ORE);
+            event.accept(ModBlocks.SHIVERPIKE_BLOCK);
+            event.accept(ModBlocks.SHIVERPIKE_TILE);
         }
     }
 

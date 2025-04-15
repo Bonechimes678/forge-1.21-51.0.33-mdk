@@ -1,6 +1,17 @@
 {
+  "item.glorytothewyrm.blackened_steel_ingot": "Blackened Steel Ingot",
+  "item.glorytothewyrm.blackened_scrap": "Blackened Scrap",
   "item.glorytothewyrm.shiverpike": "Shiverpike",
+  "item.glorytothewyrm.shiverpike_chisel": "Shiverpike Chisel",
   "item.glorytothewyrm.shiverpike_refined": "Refined Shiverpike",
 
-  "block.glorytothewyrm.shiverpike_clump": "Shiverpike Clump"
+  "block.glorytothewyrm.blackened_ore": "Blackened Ore",
+  "block.glorytothewyrm.blackened_deepslate_ore": "Blackened Deepslate Ore",
+  "block.glorytothewyrm.blackened_steel_block": "Blackened Steel",
+  "block.glorytothewyrm.shiverpike_clump": "Shiverpike Clump",
+  "block.glorytothewyrm.shiverpike_ore": "Shiverpike Ore",
+  "block.glorytothewyrm.shiverpike_tile": "Shiverpike Tile",
+  "block.glorytothewyrm.shiverpike_block": "Shiverpike Block",
+
+  "creativetab.glorytothewyrm.glory_to_the_wyrm_stuff": "Glory to The Wyrm"
 }

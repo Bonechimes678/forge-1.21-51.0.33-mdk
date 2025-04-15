@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "blackened",
+  "ingredient": {
+    "item": "glorytothewyrm:blackened_ore"
+  },
+  "result": {
+    "id": "glorytothewyrm:blackened_scrap"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "glorytothewyrm:shiverpike_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "glorytothewyrm:shiverpike_tile"
+  }
+}

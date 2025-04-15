@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "glorytothewyrm:shiverpike_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "glorytothewyrm:shiverpike_refined"
+  }
+}
