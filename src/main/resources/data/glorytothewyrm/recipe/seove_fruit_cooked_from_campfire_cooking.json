@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 700,
+  "experience": 0.2,
+  "ingredient": {
+    "item": "glorytothewyrm:seove_fruit"
+  },
+  "result": {
+    "id": "glorytothewyrm:seove_fruit_cooked"
+  }
+}

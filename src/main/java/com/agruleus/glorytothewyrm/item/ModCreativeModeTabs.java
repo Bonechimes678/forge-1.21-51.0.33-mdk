@@ -23,6 +23,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SHIVERPIKE.get());
                         pOutput.accept(ModItems.SHIVERPIKE_CHISEL.get());
                         pOutput.accept(ModItems.SHIVERPIKE_REFINED.get());
+                        pOutput.accept(ModItems.SEOVE_FRUIT.get());
+                        pOutput.accept(ModItems.SEOVE_FRUIT_COOKED.get());
 
                         pOutput.accept(ModBlocks.BLACKENED_ORE.get());
                         pOutput.accept(ModBlocks.BLACKENED_DEEPSLATE_ORE.get());

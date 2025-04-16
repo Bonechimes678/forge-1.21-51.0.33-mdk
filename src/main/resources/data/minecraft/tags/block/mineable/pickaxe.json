@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
+    "glorytothewyrm:blackened_ore",
+    "glorytothewyrm:blackened_deepslate_ore",
+    "glorytothewyrm:blackened_steel_block",
     "glorytothewyrm:shiverpike_block",
     "glorytothewyrm:shiverpike_clump",
     "glorytothewyrm:shiverpike_ore",

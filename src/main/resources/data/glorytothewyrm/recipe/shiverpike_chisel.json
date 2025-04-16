@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "glorytothewyrm:shiverpike_refined"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "M": {
+      "item": "glorytothewyrm:blackened_steel_ingot"
+    }
+  },
+  "pattern": [
+    "  A",
+    " M ",
+    "S  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "glorytothewyrm:shiverpike_chisel"
+  }
+}
